@@ -11,13 +11,13 @@ public class BasicStuff {
         System.out.println("The sum of our ages is " + (age0 + age1) + "!");
         // adding the variables within in the printl n statement must be in parentheses or other ways it will just print out the two numbers
         //changing ages to double adds .0 to all variables
-        System.out.println(6/2);
+        System.out.println(6/3);
         System.out.println(6/4);
         // 6/4 does not print 1.5 as 6 and 4 are both integers
         System.out.println(Integer.MAX_VALUE);
         // Integer.MAX_VALUE is the highest value a integer can store
         System.out.println(Integer.MIN_VALUE);
-        //This prints the smallest value an intege can store
+        //This prints the smallest value an integer can store
         System.out.println(Integer.MIN_VALUE-1);
         //Integer.MIN_VALUE -1 prints the highest value. I am not sure why, but I know it cant give another number smaller than the minimum.
 
